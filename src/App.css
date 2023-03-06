@@ -1,0 +1,51 @@
+#container{
+  text-align: center;
+  font-family:monospace;
+}
+
+#agent-container{
+  width: 70%;
+  margin: 0 auto;
+  max-width: 1000px;
+  display:flex;
+  flex-wrap: wrap;
+}
+
+#agent-info{
+  text-align: center;
+  font-family: monospace;
+  width: 75%;
+  margin: 0 auto;
+}
+
+.agent-page {
+  text-align: left;
+  border: 1px solid #ddd;
+  padding: 30px;
+  border-radius: 2rem;
+}
+
+.agent-page img{
+  width:100%;
+}
+.agent{
+  width: 250px;
+  height: 550px;
+  margin: 0 auto;
+  border: 1px solid #ddd;
+  border-radius: 1em;
+  font-family: monospace; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 5%;
+}
+
+.agent img{
+  width: 200px;
+}
+
+.agent p{
+  width: 80%; 
+}

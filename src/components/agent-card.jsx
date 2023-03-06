@@ -1,7 +1,7 @@
 import React from 'react'
-import image from './images/secret-agent.jpg'
+import image from '../images/secret-agent.jpg'
 
-const AgentComponent = (props) => {
+const AgentCard = (props) => {
 
   return (
     <div className="agent">
@@ -13,4 +13,4 @@ const AgentComponent = (props) => {
   )
 }
 
-export default AgentComponent;
+export default AgentCard;

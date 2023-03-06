@@ -1,17 +1,14 @@
 import React from 'react'
-import AgentComponent from './agent-component.jsx'
-import {getAgentInfo} from './agent-info.js'
+import AgentCard from './agent-card.jsx'
+import {getAgentInfo} from '../agent-info.js'
 
 let info = getAgentInfo(null);
-console.log(info)
 
 let itemList=[];
 for(let i = 0; i < Object.keys(info).length; i++){
   let id = Object.keys(info)[i]
-  itemList.push(<AgentComponent id={id} name={info[id].name} achievement={info[id].achievements} number={(i+1)}/>);
+  itemList.push(<AgentCard id={id} name={info[id].name} achievement={info[id].achievements} number={(i+1)}/>);
 }
-
-console.log(itemList)
 
 const Home = () => {
   return (

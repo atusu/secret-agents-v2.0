@@ -6,7 +6,7 @@ const info = {
 
 export let images={}
 
-for (var i=0; i<3;i++){
+for (var i=0; i<3; i++){
     const value = info[Object.keys(info)[i]]
     images[value.name] = require(`./images/${value.name}.jpg`)
 }

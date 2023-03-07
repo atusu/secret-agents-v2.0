@@ -34,7 +34,7 @@ const AgentProfile = () => {
         <p><b>Secret: </b>{info.secret}</p>
         <p><b>ID: </b>{id}</p>
         <br/>
-        <a href="/">Inapoi</a>
+        <a href="/">&lt; Back</a>
       </div>
     </div>
   )

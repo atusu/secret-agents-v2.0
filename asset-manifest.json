@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/secret-agents-v2.0/static/css/main.5bf087ad.css",
-    "main.js": "/secret-agents-v2.0/static/js/main.2aa37f07.js",
+    "main.js": "/secret-agents-v2.0/static/js/main.d7f05ddf.js",
     "static/js/787.7f9b9ffb.chunk.js": "/secret-agents-v2.0/static/js/787.7f9b9ffb.chunk.js",
     "static/media/Vali.jpg": "/secret-agents-v2.0/static/media/Vali.4b7459390db32df54e82.jpg",
     "static/media/Silviu.jpg": "/secret-agents-v2.0/static/media/Silviu.e990637530882931e0a3.jpg",
@@ -11,11 +11,11 @@
     "static/media/logo.svg": "/secret-agents-v2.0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/secret-agents-v2.0/index.html",
     "main.5bf087ad.css.map": "/secret-agents-v2.0/static/css/main.5bf087ad.css.map",
-    "main.2aa37f07.js.map": "/secret-agents-v2.0/static/js/main.2aa37f07.js.map",
+    "main.d7f05ddf.js.map": "/secret-agents-v2.0/static/js/main.d7f05ddf.js.map",
     "787.7f9b9ffb.chunk.js.map": "/secret-agents-v2.0/static/js/787.7f9b9ffb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bf087ad.css",
-    "static/js/main.2aa37f07.js"
+    "static/js/main.d7f05ddf.js"
   ]
 }
